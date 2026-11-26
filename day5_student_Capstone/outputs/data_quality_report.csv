@@ -1,0 +1,8 @@
+metric,count
+rows_after_timestamp_validation,46
+duplicate_rows_removed,2
+inserted_six_hour_slots,4
+missing_oil_bbl_after_cleaning,6
+missing_water_bbl_after_cleaning,5
+missing_gas_mscf_after_cleaning,5
+missing_pressure_psi_after_cleaning,0

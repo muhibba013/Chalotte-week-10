@@ -1,0 +1,2 @@
+well_id,timestamp,oil_bbl,water_bbl,gas_mscf,pressure_psi,status,ingested_at,source_row_number,timestamp_raw,ingested_at_raw,rejection_reason
+WELL-22,,72.0,22,150,2960,ACTIVE,2026-04-10 01:00:00,36,2026-04-99 12:00,2026-04-10 01:00,Timestamp could not be parsed
